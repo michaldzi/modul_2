@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "assistent-bot"
+name = "asystent"
 version = "0.1.0"
 description = ""
 authors = ["Michał Dzieza"]
 readme = "README.md"
-packages = [{include = "assistent_bot"}]
+packages = [{include = "asystent"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
